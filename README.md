@@ -1,4 +1,4 @@
-# Baeden Vester
+# Hey there! I'm Baeden
 
 I'm a Master's student at NC State University taking coursework focused on robotics and human-computer interaction.
 
