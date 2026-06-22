@@ -28,5 +28,5 @@ A collection of smaller, less polished projects can be found [here](https://gith
 
 ## Contact
 
-- Website: Coming Soon!
+- Website: [baedenv.dev](https://baedenv.dev)
 - GitHub: [github.com/lil-cosine](https://github.com/lil-cosine)
