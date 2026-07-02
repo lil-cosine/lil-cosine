@@ -26,7 +26,7 @@ I'm a Master's student at NC State University taking coursework focused on robot
 
 A collection of smaller, less polished projects can be found [here](https://github.com/lilcosine-small-projects)!
 
-## Contact
+## Links
 
 - Website: [baedenv.dev](https://baedenv.dev)
 - GitHub: [github.com/lil-cosine](https://github.com/lil-cosine)
