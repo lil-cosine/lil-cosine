@@ -21,7 +21,7 @@ I'm a Master's student at NC State University taking coursework focused on robot
 | Project | Description |
 |----------|-------------|
 | [Multi-drone Control](https://github.com/lil-cosine/Multi-Drone-Control) | A template for programatic control of multiple drones through Isaac Sim. |
-| [Tic-Tac-Toe Minimax](https://github.com/lilcosine-small-projects/tictactoe-minimax) | A Tic-Tac-Toe game and an AI opponent powered by an exhaustive Minimax search. A branch also contain a neural net trained against the minimax search. |
+| [Connect Four RL](https://github.com/lil-cosine/connect-four-rl) | A Connect Four game and an AI opponent powered by a neural net trained against an Alpha/Beta Pruned Minimax tree. |
 | [Calculate Trip Cost](https://github.com/lil-cosine/CalculateTripCost) | A full-stack web application for tracking and analyzing driving expenses using gas price data sourced from the U.S. EIA. |
 
 A collection of smaller, less polished projects can be found [here](https://github.com/lilcosine-small-projects)!
